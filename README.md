@@ -1,18 +1,10 @@
 # seattle_airbnb
 ## Predicting Seattle AirBnb Ratings
-Using Kaggle data on Seattle AirBnB data I will analyze prdetermine 
+Using Kaggle to collect Seattle AirBnB data I will analyze host ratings based on their property details and their relationship with their customers.
 
 ### Installation
-import numpy as np
-import pandas as pd
-import datetime
-import matplotlib.pyplot as plt
-from matplotlib.pyplot import figure
-from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import r2_score, mean_squared_error
-import seaborn as sns
-%matplotlib inline
+Install the files into a folder on your computer
+Download Jupyter Notebook to open the files
 
 ### Project Motivation
 To determine
@@ -21,9 +13,9 @@ To determine
 - whether the over host rating can be predicted based on the variables provided
 
 ### File Descriptions
-reviews.csv
-listings.csv
-calendar.csv
+reviews.csv: 
+listings.csv: 
+calendar.csv: 
 
 ### How To Interact With Your Project
 Run the cells in order. There are charts and maps that explain the data findings.
