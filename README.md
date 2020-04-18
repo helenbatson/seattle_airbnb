@@ -1,6 +1,6 @@
 # Predicting Seattle AirBnb Ratings
 
-![Image of Needle](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/IMG_1628.png)
+![Image of Needle](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/space_needle.png)
 
 A couple years ago I travelled to Seattle on business trips. Fortunately my hotels were paid for but I would have rather stayed in an AirBnB to experience living in Seattle if I had the chance.
 
@@ -51,19 +51,15 @@ Run the Jupyter Notebook cells in order. There are charts and maps that explain 
 
 ### Method
 
+![Image of price spread](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/price_spread.png)
+![Image of price spread](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/price_spread2.png)
+![Image of price spread](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/price_spread3.png)
 
 
-![Image of price spread](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/.png)
-![Image of price spread](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/.png)
-![Image of price spread](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/.png)
+![Image of correlation pearson](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/correlation_kendall.png)
+![Image of correlation kendall](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/correlation_pearson.png)
 
-
-![Image of correlation pearson](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/.png)
-![Image of correlation kendall](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/.png)
-
-![Image of map](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/.png)
-
-
+![Image of map](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/mapping_seattle.png)
 
 
 ### Summary of the Results
