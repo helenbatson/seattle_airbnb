@@ -2,26 +2,30 @@
 
 ![Image of Needle](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/space_needle.png)
 
-A couple years ago I travelled to Seattle on business trips. Fortunately my hotels were paid for but I would have rather stayed in an AirBnB to experience living in Seattle if I had the chance. It has spectacular views and the weather is familiar to home here in the UK.
+A couple years ago I travelled to Seattle on business trips. Fortunately my hotels were paid for but I would have rather stayed in an AirBnB to experience living in Seattle if I had the chance. It has spectacular views and the weather is familiar to my home here in the UK.
 
-For future trips it will be an option so using Kaggle to collect Seattle AirBnB data I have started to analyze host ratings based on the property details and the host's relationships with their customers.
+For future trips it will be an option, and so, using Kaggle to collect Seattle AirBnB data I have started an analysis on host ratings based on property details and the host's relationship with their customers.
 
 
-### Project Motivation
-###### My main questions?
 
-* Which properties details and communication style will contribute to a high AirBnB rating?
-* Can the overall host rating be predicted based on the variables provided?
-If a host has a high rating then I may make assumptions about the property without necessarily going by the details on their property or room posting.
-
-* Can a host rating be determined based on their property details and their relationship with their customers.
-On the flip-side, if I were to believe everything in a host's posting can I determine what their true rating should be considering they may be a new host. I like to give people the benefit of the doubt. 
-
-* Can an AirBnB host set their prices based on the time of the year?
-If so, I may choose to go back to Seattle at a time when I know the prices will be at their lowest.
+### What I Would Like To Answer
 
 * Which variables are closely correlated?
-If a host has high prices, it could be because the bathroom and bedroom are well presented. That kind of thing matters to me.
+There are likely to be instances where certain attributes of the property and the host's style/rate of communication with possible lodgers contribute highly with higher or lower prices or ratings.
+If for instance a host has high prices, it could be because the bathroom and bedroom are well presented. 
+
+
+* Can an AirBnB host set their prices based on the time of the year?
+There are usually peaks for travelling and prices rise around that time. By evaluating prices during the year, a cheaper time could be chosen if the traveller's time is flexible.
+
+
+* Which property details and communication style will contribute to a high AirBnB rating?
+The data includes information related to the property and the style/rate of communication with possible lodgers.
+If a host has a high rating then I may make quick assumptions about the property without necessarily going by the details on their property or room posting.
+
+
+* Can a host rating be determined based on their property details and their relationship with their customers.
+If I were to believe everything in a host's posting can I determine what their true rating should be considering they may be a new host with few reviews. It would be nice to give hosts the benefit of the doubt.
 
 
 ### Installation
@@ -30,11 +34,11 @@ If a host has high prices, it could be because the bathroom and bedroom are well
 
 
 ##### Libraries used:
-1. numpy
-1. pandas
-1. datetime
-1. matplotlib.pyplot
-1. seaborn
+1. Numpy
+1. Pandas
+1. Datetime
+1. Matplotlib.pyplot
+1. Seaborn
 
 
 ### File Descriptions
@@ -66,6 +70,9 @@ If a host has a high rating then I may make assumptions about the property witho
 
 
 
+* Which property details and communication style will contribute to a high AirBnB rating?
+* Can the overall host rating be predicted based on the variables provided?
+If a host has a high rating then I may make assumptions about the property without necessarily going by the details on their property or room posting.
 * Which variables are closely correlated?
 If a host has high prices, it could be because the bathroom and bedroom are well presented. That kind of thing matters to me.
 
