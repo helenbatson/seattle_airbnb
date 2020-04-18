@@ -1,6 +1,6 @@
 # Predicting Seattle AirBnb Ratings
 
-![Image of Needle](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/space_needle.png)
+![Image of Needle](space_needle.png)
 
 A couple years ago I travelled to Seattle on business trips. Fortunately my hotels were paid for but I would have rather stayed in an AirBnB to experience living in Seattle if I had the chance. It has spectacular views and the weather is familiar to my home here in the UK.
 
