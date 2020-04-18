@@ -2,25 +2,26 @@
 
 ![Image of Needle](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/space_needle.png)
 
-A couple years ago I travelled to Seattle on business trips. Fortunately my hotels were paid for but I would have rather stayed in an AirBnB to experience living in Seattle if I had the chance.
+A couple years ago I travelled to Seattle on business trips. Fortunately my hotels were paid for but I would have rather stayed in an AirBnB to experience living in Seattle if I had the chance. It has spectacular views and the weather is familiar to home here in the UK.
 
-For future trips it will be an option so using Kaggle to collect Seattle AirBnB data I will analyze host ratings based on the property details and the host's relationship with their customers.
+For future trips it will be an option so using Kaggle to collect Seattle AirBnB data I have started to analyze host ratings based on the property details and the host's relationships with their customers.
 
 
 ### Project Motivation
 ###### My main questions?
+
 * Which properties details and communication style will contribute to a high AirBnB rating?
-If a host has a high rating then I may make assumptions about the property without necessarily going by the details on their posting.
+* Can the overall host rating be predicted based on the variables provided?
+If a host has a high rating then I may make assumptions about the property without necessarily going by the details on their property or room posting.
 
 * Can a host rating be determined based on their property details and their relationship with their customers.
+On the flip-side, if I were to believe everything in a host's posting can I determine what their true rating should be considering they may be a new host. I like to give people the benefit of the doubt. 
 
-Can an AirBnB host set their prices based on the time of the year?
-If so, I may choose to go at a time when I know the prices are at their lowest.
+* Can an AirBnB host set their prices based on the time of the year?
+If so, I may choose to go back to Seattle at a time when I know the prices will be at their lowest.
 
-Which variables are closely correlated?
+* Which variables are closely correlated?
 If a host has high prices, it could be because the bathroom and bedroom are well presented. That kind of thing matters to me.
-
-Can the overall host rating be predicted based on the variables provided?
 
 
 ### Installation
@@ -28,8 +29,7 @@ Can the overall host rating be predicted based on the variables provided?
 1. Download Jupyter Notebook to use the files
 
 
-###### Libraries used:
-`<numpy, pandas, datetime, matplotlib.pyplot, seaborn>`
+##### Libraries used:
 1. numpy
 1. pandas
 1. datetime
@@ -51,15 +51,31 @@ Run the Jupyter Notebook cells in order. There are charts and maps that explain 
 
 ### Method
 
+* Can an AirBnB host set their prices based on the time of the year?
+If so, I may choose to go back to Seattle at a time when I know the prices will be at their lowest.
+
 ![Image of price spread](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/price_spread.png)
 ![Image of price spread](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/price_spread2.png)
 ![Image of price spread](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/price_spread3.png)
 
 
+
+* Which properties details and communication style will contribute to a high AirBnB rating?
+* Can the overall host rating be predicted based on the variables provided?
+If a host has a high rating then I may make assumptions about the property without necessarily going by the details on their property or room posting.
+
+
+
+* Which variables are closely correlated?
+If a host has high prices, it could be because the bathroom and bedroom are well presented. That kind of thing matters to me.
+
 ![Image of correlation pearson](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/correlation_kendall.png)
 ![Image of correlation kendall](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/correlation_pearson.png)
 
+
+
 ![Image of map](https://github.com/helenbatson/seattle_airbnb_analysis/blob/master/mapping_seattle.png)
+
 
 
 ### Summary of the Results
