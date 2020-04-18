@@ -1,5 +1,7 @@
-# seattle_airbnb
-## Predicting Seattle AirBnb Ratings
+# Predicting Seattle AirBnb Ratings
+
+![Image of Needle](https://github.com/helenbatson/seattle_airbnb_analysis/IMG_1628.png)
+
 Using Kaggle to collect Seattle AirBnB data I will analyze host ratings based on the property details and the host's relationship with their customers.
 
 Can hosts make particular changes to their property and communication to increase their AirBnB ratings?
