@@ -42,8 +42,8 @@ Listing price appears to increase with:
 
 If hosts concentrate on the cleanliness of their property they'd be in a good position to increase their daily rates, which wouldn't affect their ratings - Win, win!
 
-
-[Giphy]https://gph.is/1L5kQ7j
+![Gif of Donald Duck](donald_money.gif)
+[Source: Giphy]https://gph.is/1L5kQ7j
 
 Review scores appear to increase with:
 ** The number of bathrooms
