@@ -87,7 +87,7 @@ If I have flexible travelling time I would choose January or February as I could
 
 ### Can a host rating be determined based on their property details and their relationship with their customers.
 Suppose we like the look of a property but the host is new or has few reviews on which we may base our decision.
-Using the numerical data in the AirBnB dataset, the host rating has be predicted using a linear model with an accuracy of ~49%. The linear model was not ideal for categorical data, so another predictive model will be investigated at a later time. An ensemble model 
+Using the numerical data in the AirBnB dataset, the host rating has be predicted using a linear model with an accuracy of ~53%. The linear model was not ideal for categorical data, so another predictive model will be investigated at a later time. An ensemble model 
 Putting most of the data to use in a predictive model for host rating values will lead to better decisions of the property that is chosen for the next stay in Seattle.
 
 
@@ -130,4 +130,4 @@ Run the Jupyter Notebook cells in order. There are charts and maps that explain 
 ### Licensing, Authors, Acknowledgements
 
 The data files were retrieved from [Kaggle]https://www.kaggle.com/airbnb/seattle
-Thanks to my mentors for helping me to understand my results
+Thanks to my mentors at [Udacity]https://www.udacity.com/ for helping me to understand my results
