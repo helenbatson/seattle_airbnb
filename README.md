@@ -87,8 +87,7 @@ If I have flexible travelling time I would choose January or February as I could
 
 ### Can a host rating be determined based on their property details and their relationship with their customers.
 Suppose we like the look of a property but the host is new or has few reviews on which we may base our decision.
-Using the numerical data in the AirBnB dataset, the host rating has be predicted using a linear model with an accuracy of ~53%. The linear model was not ideal for categorical data, so another predictive model will be investigated at a later time. An ensemble model 
-Putting most of the data to use in a predictive model for host rating values will lead to better decisions of the property that is chosen for the next stay in Seattle.
+Using the numerical data in the AirBnB dataset, the host rating has be predicted using a linear model with an accuracy of ~53%. The linear model was not ideal for categorical data, so other predictive models will be investigated at a later time. With ensemble models the decisions from multiple models will be combined to improve the overall performance from 53%. By combining different models this will lead to more flexibility (less bias) and less data sensitivity (less variance).
 
 
 ## Summary of the Results
