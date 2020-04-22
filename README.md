@@ -11,28 +11,28 @@ For future trips it will be an option, and so, using Kaggle to collect Seattle A
 
 ## Questions: An Investigation Into The Data
 
-* Which variables are closely related?
-There are likely to be instances where certain attributes of the property and the host's style/rate of communication with possible lodgers contribute highly with higher or lower prices or ratings.
-If for instance a host has high prices, it could be because the bathroom and bedroom are well presented, and the host knows that is why they will be more sought after.
-
-
-* Can an AirBnB host set their prices based on the time of the year?
-There are usually peaks for travelling and prices rise around that time. By evaluating prices during the year, a cheaper time could be chosen if the traveller's time is flexible.
-
-
-* Which property details and communication style will contribute to a high AirBnB rating?
+Q1) Which property details and communication style will contribute to a high AirBnB rating?
 The data includes information related to the property and the style/rate of communication with possible lodgers.
 If a host has a high rating then I may make quick assumptions about the property without necessarily going by all of the details on their AirBnB posting.
 
 
-* Can a host rating be determined based on their property details and their relationship with their customers.
+Q2) Which variables are closely related?
+There are likely to be instances where certain attributes of the property and the host's style/rate of communication with possible lodgers contribute highly with higher or lower prices or ratings.
+If for instance a host has high prices, it could be because the bathroom and bedroom are well presented, and the host knows that is why they will be more sought after.
+
+
+Q3) Can an AirBnB host set their prices based on the time of the year?
+There are usually peaks for travelling and prices rise around that time. By evaluating prices during the year, a cheaper time could be chosen if the traveller's time is flexible.
+
+
+Q4) Can a host rating be determined based on their property details and their relationship with their customers.
 If I were to believe everything in a host's posting can I determine what their true rating should be considering they may be a new host with few reviews. It would be nice to give hosts the benefit of the doubt.
 
 
 
 ## Findings
 
-### Which property details and communication style will contribute to a high AirBnB rating?
+### Q1) Which property details and communication style will contribute to a high AirBnB rating?
 If a host has a high rating then I may make quick assumptions about the property without necessarily going by the details on their property or room posting.
 
 #### Two things that hosts can focus on to improve their standing with lodgers.
@@ -62,7 +62,7 @@ The host's rate of communication with possible lodgers appears to increase with 
 Hosts are also more likely to respond quickly when multiple guest are staying; supposedly because they expect more money than a single occupant.
 
 
-#### Take a Look at this example correlation chart.
+### Q2) Which variables are closely related? Let's take a look at an example correlation chart.
 We look for red and dark blue for positive and negative correlation respectively.
 Positive correlation means that as one increases so does the other; the same for decreasing values.
 Negative correlation means that as one increases the other decreases.
@@ -70,7 +70,7 @@ Negative correlation means that as one increases the other decreases.
 ![Image of correlation pearson](correlation_pearson.png)
 
 
-### Can an AirBnB host set their prices based on the time of the year?
+### Q3) Can an AirBnB host set their prices based on the time of the year?
 Looking at the three charts below we can see there are times of the year that the prices increase and decrease, even though the most frequent range of prices is up to 200 US dollars.
 
 There is a definite summer peak, which is expected during the school holidays, and a higher density and wider variety of prices are available at this time, showing that hosting tends to be seasonal. If I'm a host that doesn't have time to make my property available all-year-round then I can concentrate on making the most of the summer months where I may command higher prices, and have more frequent occupants. June to August is the peak for prices, and hosts tend to increase their prices for those months.
@@ -86,12 +86,12 @@ If I have flexible travelling time I would choose January or February as I could
 ![Image of map](mapping_seattle.png)
 
 
-### Can a host rating be determined based on their property details and their relationship with their customers.
+### Q4) Can a host rating be determined based on their property details and their relationship with their customers.
 Suppose we like the look of a property but the host is new or has few reviews on which we may base our decision.
 Using the numerical data in the AirBnB dataset, the host rating has be predicted using a linear model with an accuracy of ~53%. The linear model was not ideal for categorical data, so other predictive models will be investigated at a later time. With ensemble models the decisions from multiple models will be combined to improve the overall performance from 53%. By combining different models this will lead to more flexibility (less bias) and less data sensitivity (less variance).
 
 
-## Summary of the Results
+## Conclusion
 This analysis was meant for both hosts and lodgers to gain some insight into the AirBnB market in Seattle. It may be expected that other cities mirror the same trend, at least in the Northern hemisphere, though one thing to bare in mind is travelling for popular events, like conferences. Events that don't occur every year would likely change the price range unexpectedly. Future analysis would be to combine conference data with AirBnB data to check trends in that instance. 
 
 It would be interesting to see how the price chart differs to a city in Austrailia, like Sydney.
