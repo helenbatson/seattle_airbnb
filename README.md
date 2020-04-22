@@ -2,13 +2,14 @@
 
 ![Image of Needle](space_needle.png)
 
+## Introduction
 Some years ago I travelled to Seattle on a couple business trips. Fortunately my hotels were paid for but I would rather have stayed in an AirBnB to experience living in Seattle if I had the chance. It has spectacular views and the weather is familiar to my home here in the UK.
 
 For future trips it will be an option, and so, using Kaggle to collect Seattle AirBnB data, I have started an analysis on host ratings based on property details and the host's relationship with their customers. Hopefully this is a sound way to find a nice property and to have a more enjoyable trip seeing friends and exploring the area.
 
 
 
-## An Investigation Into The Data
+## Questions: An Investigation Into The Data
 
 * Which variables are closely related?
 There are likely to be instances where certain attributes of the property and the host's style/rate of communication with possible lodgers contribute highly with higher or lower prices or ratings.
