@@ -35,11 +35,11 @@ If I were to believe everything in a host's posting can I determine what their t
 ### Q1) Which property details and communication style will contribute to a high AirBnB rating?
 If a host has a high rating then I may make quick assumptions about the property without necessarily going by the details on their property or room posting.
 
-#### Two things that hosts can focus on to improve their standing with lodgers.
+##### Two things that hosts can focus on to improve their standing with lodgers.
 
 Listing price appears to increase with:
-** Cleanliness
-** Ratings
+1. Cleanliness
+2. Ratings
 
 If hosts concentrate on the cleanliness of their property they'd be in a good position to increase their daily rates, which wouldn't affect their ratings - Win, win!
 
@@ -48,9 +48,9 @@ If hosts concentrate on the cleanliness of their property they'd be in a good po
 [Source: Giphy]https://gph.is/1L5kQ7j
 
 Review scores appear to increase with:
-** The number of bathrooms
-** The number of bedrooms
-** Minimum nights
+1. The number of bathrooms
+2. The number of bedrooms
+3. Minimum nights
 
 From this we can assume that if the number of _bathrooms_, _bedrooms_ and _minimum number of nights_ suited the lodgers, then they would leave high reviews. However, these would need *further analysis*. For instance we would look into which number of bathrooms, bedrooms and minimum nights were most sought after based on the number of lodgers.
 
