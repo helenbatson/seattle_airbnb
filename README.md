@@ -99,7 +99,7 @@ Can you think of any major cities that may not follow this trend?
 Has there been a time where this trend would change for us here in the Northern Hemisphere? 
 
 
-# Implementation:
+# Implementation
 ## Technical Information
 
 ### Installation
